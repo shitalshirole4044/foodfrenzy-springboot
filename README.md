@@ -18,17 +18,17 @@ FoodFrenzy is a comprehensive system designed for managing customers, inventory,
 
 - **Backend**: Spring Boot, Java 8, Spring MVC, Spring Data JPA (Hibernate)
 - **Frontend**: Thymeleaf, HTML, CSS, JavaScript
-- **Database**: MySQL
-- **IDE**: Eclipse, Spring Tool Suite (STS)
+- **Database**: Postgres
+- **IDE**: Intellij, Spring Tool Suite (STS)
 
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
 
 - Java 8
-- MySQL
+- Postgres
 - Maven
-- Eclipse or Spring Tool Suite (STS)
+- Intellij or Spring Tool Suite (STS)
 
 ## Setup and Installation
 # 🎁 Donate
